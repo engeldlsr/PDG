@@ -1,6 +1,6 @@
 <?php
 include_once('config.php');
-class Producto extends CI_Controller {
+class Producto extends MY_Admin {
 
     function __construct()
     {

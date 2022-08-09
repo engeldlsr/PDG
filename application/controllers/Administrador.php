@@ -111,7 +111,7 @@ class Administrador extends CI_Controller {
         $this->load->view('back/footer');
     }
 
-    public function updateUser()
+    public function updateUser($id)
     {   
         $this->load->model('Usuario');
         
