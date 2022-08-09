@@ -1,0 +1,13 @@
+.user_login {
+    text-transform: uppercase;
+}
+.info .logout {
+    margin-top: -15px;
+}
+
+a.logout {
+    color: rgb(78, 6, 6) !important;
+}
+.sidebar-dark-primary .nav-sidebar>.nav-item>.nav-link.active, .sidebar-light-primary .nav-sidebar>.nav-item>.nav-link.active {
+    background-color: #a2192e !important;
+}
