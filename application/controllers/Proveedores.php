@@ -1,6 +1,6 @@
 <?php
 include_once('config.php');
-class Proveedores extends CI_Controller {
+class Proveedores extends WH_Controller {
 
     function __construct()
     {

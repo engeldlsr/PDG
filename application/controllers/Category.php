@@ -1,6 +1,6 @@
 <?php
 include_once('config.php');
-class Category extends CI_Controller {
+class Category extends WH_Controller {
 
     function __construct()
     {
